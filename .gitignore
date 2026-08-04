@@ -8,7 +8,12 @@ hw1
 array
 pattern
 ncr
-
-
-
-
+triangle_pattern
+square_pattern
+right_aligned_triangle_pattern
+inverted_triangle_pattern
+floyd_triangle_pattern
+pyramid_pattern
+diamond_pattern
+inverted_pyramid_pattern
+hollow_diamond_pattern
