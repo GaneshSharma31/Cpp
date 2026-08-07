@@ -23,4 +23,4 @@ int main (){
     return 0;
 }
 
- 
+ // output : {9,8,5,4,1,2}
